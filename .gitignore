@@ -2,13 +2,13 @@ node_modules
 .dendron.*
 build
 seeds
-Breads
-Breakfast
-Dinners
-Drinks
-Italian
-Meats
-Sauces
-Soups
-Spices and Grinding
+Breads/
+Breakfast/
+Dinners/
+Drinks/
+Italian/
+Meats/
+Sauces/
+Soups/
+Spices and Grinding/
 
