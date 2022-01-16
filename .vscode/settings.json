@@ -1,0 +1,10 @@
+{
+    "dendron.rootDir": ".",
+    "files.autoSave": "onFocusChange",
+    "editor.snippetSuggestions": "inline",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggest.showSnippets": true,
+    "editor.tabCompletion": "on",
+    "pasteImage.path": "${currentFileDir}/assets/images",
+    "pasteImage.prefix": "/"
+}
